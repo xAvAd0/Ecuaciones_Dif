@@ -68,6 +68,7 @@ Ventajas:
 
 Puede ser muy eficiente para problemas de largo plazo.
 Utiliza la información de pasos anteriores para mejorar la precisión.
+
 Desventajas:
 
 Requiere almacenamiento de valores de pasos anteriores.
